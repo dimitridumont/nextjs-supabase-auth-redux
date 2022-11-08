@@ -16,7 +16,7 @@ Reversal and dependency injection are handled with redux-thunk.
 ## How to use this starter 👨‍💻
 - Clone the starter project: `git clone https://github.com/dimitridumont/nextjs-supabase-auth-redux`
 - Change the remote url with your repository: `git remote set-url origin new.git.url`
-
+- Copy and paste `.env` to `.env.local` with your Supabase values
 
 ## Commands ⌨️
 
