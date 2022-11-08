@@ -1,0 +1,5 @@
+build
+coverage
+.next
+dist
+public
